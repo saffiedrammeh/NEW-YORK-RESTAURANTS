@@ -1,4 +1,4 @@
---I am ultizing various commands to query the table nomnom so we may answer questions about the data.
+--I am ultizing various commands to query the table 'nomnom' so we may answer questions about the data.
 SELECT *
 FROM nomnom;
 
